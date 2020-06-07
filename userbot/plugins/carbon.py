@@ -152,8 +152,6 @@ async def carbon_api(e):
 
          file,
 
-         caption="<< Here's your carbon, \n Carbonised by [FRIDAY](https://www.github.com/midhunkm1294-bit/FRIDAY)>> ",
-
          force_document=True,
 
          reply_to=e.message.reply_to_msg_id,
